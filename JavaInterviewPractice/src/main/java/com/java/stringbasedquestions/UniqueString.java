@@ -29,7 +29,11 @@ public class UniqueString {
 
 	public static void main(String[] args) {
 
-		System.out.println(usingStringMethods("1231"));
+		//System.out.println(usingStringMethods("1231"));
+		
+		ClassDemo.s1="Specialist";
+		System.out.println(ClassDemo.s1);
+		
 
 	}
 

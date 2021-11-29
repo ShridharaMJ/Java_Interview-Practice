@@ -30,7 +30,9 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 
-		System.out.println(applyRecursion("TEST"));
+		//System.out.println(applyRecursion("TEST"));
+		
+		System.out.println(ClassDemo.s1);
 	}
 
 }

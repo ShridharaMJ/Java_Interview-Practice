@@ -42,8 +42,10 @@ public class Anagram {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(usingArrays("Angele", "Anglek"));
-
+		//System.out.println(usingArrays("Angele", "Anglek"));
+//ClassDemo.s1="QA";
+		ClassDemo.changeValues();
+		System.out.println(ClassDemo.s1);
 	}
 
 }
